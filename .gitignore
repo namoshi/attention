@@ -4,6 +4,7 @@ data_mnist/
 data/
 images/
 trained_models/
+output/
 .ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
